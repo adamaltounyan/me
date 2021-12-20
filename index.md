@@ -6,6 +6,19 @@ I fill an industry gap in having both technical and communication skills, where 
 
 Get in touch at info[@]altounyan.net, or [browse my CV](https://docs.google.com/document/d/184h3BdbTp23G_-b-9EpNDKNY1J8fnJciJT-W_84gInc/edit?usp=sharing)
 
+## What I Do
+
+With strong business acumen, I can quickly make a big impact and return on investment. Some areas where I have plenty of experience;
+
+* Security (and privacy) By Design for projects, applications and business processes
+* Security architecture
+* Interim Security Leadership
+* Security Operations review
+* Due diligence strategies for SaaS businesses
+* Vulnerability Management Programmes
+* Fraud prevention
+
+
 ### Recent Experience
 
 **Head of Information Security, Reward Gateway, 2018-2022**  
@@ -16,7 +29,7 @@ Running a small team of analysts and GRC auditors, we ran all aspects of Informa
 
 * Security strategy, budgeting, leadership and recruitment
 * SOC2 
-* Embedding Security & Privacy by design into multiple products' development processes
+* Embedding Security & Privacy by design into multiple products' development processes, threat modelling
 * Design of secure account management for 5M+ members
 * Design and implementation of anti-fraud controls for $1B+ ecommerce giftcard platform
 * Data Protection Responsibility (inc. GDPR, PECR, CCPA, DPA2018 and others), impact assessments, privacy-by-design, BAU processes, Privacy Notices
@@ -25,6 +38,7 @@ Running a small team of analysts and GRC auditors, we ran all aspects of Informa
 * Coaching, training and mentoring staff
 * Completed several mergers and acquisitions 
 * Security Operations, Vulnerability Management, DR, BCP - all the usual BAU InfoSec operations
+* AWS/Cloud Security Best Practises
 
 **Information Security Manager, Moneycorp, 2016-2018**  
 **Infrastructure Security Engineer, 2015-2016**  
