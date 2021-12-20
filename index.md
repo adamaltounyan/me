@@ -8,7 +8,8 @@ Get in touch at info[@]altounyan.net, or [browse my CV](https://docs.google.com/
 
 ### Recent Experience
 
-**Head of Information Security, Reward Gateway. 2018-2022**
+**Head of Information Security, Reward Gateway, 2018-2022**  
+
 *Reward Gateway is a global technology and employee engagement company. Its leading SaaS employee engagement platform centralises employee reward and recognition, discounts, communications, surveys, wellbeing, and flexible benefits, supporting companies with today’s most difficult people challenges. Supporting 3000+ clients, 5 million members and 1$ Billion of annual ecommerce revenue.*
 
 Running a small team of analysts and GRC auditors, we ran all aspects of Information Security including maintenance of ISO 27001 Certification, PCI DSS, SOC2 and regular audits by FTSE100/Fortune 500 customers. Major projects and achievements include;
@@ -18,17 +19,18 @@ Running a small team of analysts and GRC auditors, we ran all aspects of Informa
 * Embedding Security & Privacy by design into multiple products' development processes
 * Design of secure account management for 5M+ members
 * Design and implementation of anti-fraud controls for $1B+ ecommerce giftcard platform
-* Data Protection Responsibility (inc. GDPR, PECR, CCPA, DPA2018 and others), impact assessments, privacy-by-design, BAU processes
+* Data Protection Responsibility (inc. GDPR, PECR, CCPA, DPA2018 and others), impact assessments, privacy-by-design, BAU processes, Privacy Notices
 * Third Party Risk Management, including inbound due diligence, RFP/RFI's for large multinational banks, 'big four' consultancies and other household name companies. 
 * Assisting Sales and Account Management teams with self-service tooling to manage inbound due diligence and regular infosec queries
 * Coaching, training and mentoring staff
 * Completed several mergers and aquisitions 
-* Security Operations, Vulnerability Management, DR, BCP - all the usual BAU InfoSec operations. 
+* Security Operations, Vulnerability Management, DR, BCP - all the usual BAU InfoSec operations
 
-**Information Security Manager, Moneycorp. 2016-2018
-Infrastructure Security Engineer, 2015-2016
-Infrastructure Engineer, 2013-2015**
-_ Moneycorp is an international fintech company offering foreign exchange and global payment services to individual and corporate customers. It operates in a number of countries and also provides bulk foreign notes and travel money services (bureau de change) via a number of travel companies and airlines. Moneycorp moves over £30
+**Information Security Manager, Moneycorp, 2016-2018**  
+**Infrastructure Security Engineer, 2015-2016**  
+**Infrastructure Engineer, 2013-2015**  
+
+*Moneycorp is an international fintech company offering foreign exchange and global payment services to individual and corporate customers. It operates in a number of countries and also provides bulk foreign notes and travel money services (bureau de change) via a number of travel companies and airlines. Moneycorp moves over £30*
 
 Started in Infrastructure, re-architecting several large, sensitive networks including;
 
