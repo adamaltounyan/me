@@ -13,6 +13,7 @@ With strong business acumen, I can quickly make a big impact and return on inves
 * Security (and privacy) By Design for projects, applications and business processes
 * Security architecture
 * Interim Security Leadership
+* Security Culture review & overhauls
 * Security Operations review
 * Due diligence strategies for SaaS businesses
 * Vulnerability Management Programmes
