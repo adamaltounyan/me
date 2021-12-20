@@ -1,13 +1,15 @@
-## Altounyan Dot Net
+## Adam Altounyan
 
-I'm a seasoned IT, Infrastructure and Information Security professional available for Contracts, part-time, voluntary and advisory roles where my experience can make an impact. I've run Information Security departments for the past 7 years working across many domains and areas of knowledge. Prior to InfoSec, i built large scale private infrastructure in the Finance world, architecting and building secure systems responsible for moving $30 Billion of foreign exchange annually. 
+I'm a seasoned IT, Infrastructure and Information Security professional available for Contracts, part-time, voluntary and advisory roles where my experience can make an impact. I've run Information Security departments for the past 7 years working across many domains and areas of knowledge. I'm very familiar with GDPR and related UK Data Protection regulations, and can provide business-savy advice here. Prior to InfoSec, i built large scale private infrastructure in the Finance world, architecting and building secure systems responsible for moving $30 Billion of foreign exchange annually. 
 
-Get in touch at info[@]altounyan.net
+I fill an industry gap in having both technical and communication skills, where i'm at ease communicating with both your engineers or your senior execs. 
+
+Get in touch at info[@]altounyan.net, or [browse my CV](https://docs.google.com/document/d/184h3BdbTp23G_-b-9EpNDKNY1J8fnJciJT-W_84gInc/edit?usp=sharing)
 
 ### Recent Experience
 
 **Head of Information Security, Reward Gateway. 2018-2022**
-_Reward Gateway is a global technology and employee engagement company. Its leading SaaS employee engagement platform centralises employee reward and recognition, discounts, communications, surveys, wellbeing, and flexible benefits, supporting companies with today’s most difficult people challenges. Supporting 3000+ clients, 5 million members and 1$ Billion of annual ecommerce revenue. _
+*Reward Gateway is a global technology and employee engagement company. Its leading SaaS employee engagement platform centralises employee reward and recognition, discounts, communications, surveys, wellbeing, and flexible benefits, supporting companies with today’s most difficult people challenges. Supporting 3000+ clients, 5 million members and 1$ Billion of annual ecommerce revenue.*
 
 Running a small team of analysts and GRC auditors, we ran all aspects of Information Security including maintenance of ISO 27001 Certification, PCI DSS, SOC2 and regular audits by FTSE100/Fortune 500 customers. Major projects and achievements include;
 
