@@ -54,10 +54,11 @@ Later, winning a case to build a dedicated internal Information Security Departm
 ### Contact
 
 * Contact me at info @ altounyan.net and I'll arrange a call with you to see how I can help. 
-* Connect with me on LinkedIn; https://www.linkedin.com/in/adamaltounyan/
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/adamaltounyan/)
+* [Browse my CV](https://docs.google.com/document/d/184h3BdbTp23G_-b-9EpNDKNY1J8fnJciJT-W_84gInc/edit?usp=sharing)
 * If you're near Sheffield, UK - give me a shout for a catch up. 
 
-## Voluntary
+### Voluntary
 
 If you're involved in projects that benefit my community, or humankind in general then I would love to see how i can help you. I was a founding trustee of [The Hospice Biographers Charity](https://www.thehospicebiographers.com/) and keen to help others. 
 
