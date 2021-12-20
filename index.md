@@ -45,7 +45,7 @@ Running a small team of analysts and GRC auditors, we ran all aspects of Informa
 **Infrastructure Security Engineer, 2015-2016**  
 **Infrastructure Engineer, 2013-2015**  
 
-*Moneycorp is an international fintech company offering foreign exchange and global payment services to individual and corporate customers. It operates in a number of countries and also provides bulk foreign notes and travel money services (bureau de change) via a number of travel companies and airlines. Moneycorp moves over £30*
+*Moneycorp is an international fintech company offering foreign exchange and global payment services to individual and corporate customers. It operates in a number of countries and also provides bulk foreign notes and travel money services (bureau de change) via a number of travel companies and airlines. Moneycorp moves over £30 Billion in FX annually*
 
 Started in Infrastructure, re-architecting several large, sensitive networks including;
 
