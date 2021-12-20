@@ -1,8 +1,8 @@
 ## Adam Altounyan
 
-I'm a seasoned IT, Infrastructure and Information Security professional available for Contracts, part-time, voluntary and advisory roles where my experience can make an impact. I've run Information Security departments for the past 7 years working across many domains and areas of knowledge. I'm very familiar with GDPR and related UK Data Protection regulations, and can provide business-savy advice here. Prior to InfoSec, i built large scale private infrastructure in the Finance world, architecting and building secure systems responsible for moving $30 Billion of foreign exchange annually. 
+I'm a seasoned IT, Infrastructure and Information Security professional available for Contracts, part-time, voluntary and advisory roles where my experience can make an impact. I've run Information Security departments for the past 7 years working across many domains and areas of knowledge. I'm very familiar with GDPR and related UK Data Protection regulations, and can provide business-savvy advice here. Prior to InfoSec, i built large scale private infrastructure in the Finance world, architecting and building secure systems responsible for moving $30 Billion of foreign exchange annually. 
 
-I fill an industry gap in having both technical and communication skills, where i'm at ease communicating with both your engineers or your senior execs. 
+I fill an industry gap in having both technical and communication skills, where I'm at ease communicating with both your engineers or your senior execs. 
 
 Get in touch at info[@]altounyan.net, or [browse my CV](https://docs.google.com/document/d/184h3BdbTp23G_-b-9EpNDKNY1J8fnJciJT-W_84gInc/edit?usp=sharing)
 
@@ -23,7 +23,7 @@ Running a small team of analysts and GRC auditors, we ran all aspects of Informa
 * Third Party Risk Management, including inbound due diligence, RFP/RFI's for large multinational banks, 'big four' consultancies and other household name companies. 
 * Assisting Sales and Account Management teams with self-service tooling to manage inbound due diligence and regular infosec queries
 * Coaching, training and mentoring staff
-* Completed several mergers and aquisitions 
+* Completed several mergers and acquisitions 
 * Security Operations, Vulnerability Management, DR, BCP - all the usual BAU InfoSec operations
 
 **Information Security Manager, Moneycorp, 2016-2018**  
@@ -47,7 +47,7 @@ Later, winning a case to build a dedicated internal Information Security Departm
 * Anti malware systems
 * Security Awareness Programme
 * Risk Management
-* Regular board and comittee reporting
+* Regular board and committee reporting
 * Redesigned secure account management for B2B and B2C online platforms
 * Secure Development Processes
 
@@ -57,5 +57,7 @@ Later, winning a case to build a dedicated internal Information Security Departm
 * Connect with me on LinkedIn; https://www.linkedin.com/in/adamaltounyan/
 * If you're near Sheffield, UK - give me a shout for a catch up. 
 
+## Voluntary
 
+If you're involved in projects that benefit my community, or humankind in general then I would love to see how i can help you. I was a founding trustee of [The Hospice Biographers Charity](https://www.thehospicebiographers.com/) and keen to help others. 
 
